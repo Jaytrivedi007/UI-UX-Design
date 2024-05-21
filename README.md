@@ -60,8 +60,3 @@ The **EV Scooter** design project focuses on creating an innovative and user-cen
 The **EV Scooter** design was praised for its user-centric approach, making it easier and safer for users to navigate and utilize electric scooters.
 
 ---
-
-## Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
-- [Twitter](your-twitter-url)
