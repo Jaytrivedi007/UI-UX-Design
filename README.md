@@ -9,7 +9,7 @@ I am a passionate **UI/UX designer** with a keen eye for detail and a love for c
 
 ### 1. **Nike Jordan UI/UX Design**
 
-![Nike Jordan Mockup](Nike Jordan.png)
+![Nike Jordan Mockup](https://github.com/Jaytrivedi007/UI-UX-Design/blob/main/Nike%20Jordan.png)
 
 **Description:**
 This project involves a comprehensive **UI/UX design** for the **Nike Jordan** brand. The goal was to create a visually compelling and user-friendly interface that reflects the energy and style of the Jordan brand.
