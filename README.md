@@ -2,7 +2,7 @@
 ## About Me
 I am a passionate UI/UX designer with a keen eye for detail and a love for creating seamless user experiences. Below, you'll find some of my latest design projects that showcase my skills and creativity.
 
-**Projects**
+****Projects****
 1. Nike Jordan UI/UX Design
 
 Description:
