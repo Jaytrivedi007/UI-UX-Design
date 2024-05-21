@@ -36,7 +36,7 @@ The final design received positive feedback for its intuitive navigation and mod
 
 ### 2. **EV Scooter Design**
 
-![EV Scooter Mockup](link-to-your-image)
+![EV Scooter Mockup](https://github.com/Jaytrivedi007/UI-UX-Design/blob/main/EV%20Scooter.png)
 
 **Description:**
 The **EV Scooter** design project focuses on creating an innovative and user-centric interface for an electric scooter application. The objective was to simplify the user journey from booking to riding the scooter.
